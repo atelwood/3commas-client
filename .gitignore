@@ -1,0 +1,7 @@
+*.txt
+.env
+.idea
+bots/*.json
+nodemonts/
+.env
+node_modules
